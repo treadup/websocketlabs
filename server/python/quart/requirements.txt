@@ -1,0 +1,2 @@
+Hypercorn==0.4.2
+Quart==0.6.10
